@@ -1,0 +1,13 @@
+html, body {
+  overscroll-behavior: none;
+}
+
+.felt {
+  background: radial-gradient(circle at 50% 30%, #1f7a43 0%, #14532d 70%, #0f3f22 100%);
+  min-height: 100%;
+}
+
+.no-select {
+  user-select: none;
+  -webkit-user-select: none;
+}

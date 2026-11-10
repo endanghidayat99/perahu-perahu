@@ -1,0 +1,22 @@
+{
+  "name": "perahu-perahu-web",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@mdi/font": "^7.4.47",
+    "vue": "^3.5.12",
+    "vuetify": "^3.7.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.0",
+    "sass": "^1.80.6",
+    "vite": "^5.4.11",
+    "vite-plugin-vuetify": "^2.0.4"
+  }
+}
